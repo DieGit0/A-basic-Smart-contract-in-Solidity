@@ -9,6 +9,11 @@ Contract search:
 Contract Deployed:
 ![GTC06](https://user-images.githubusercontent.com/19257853/150061846-d7197bfb-a50b-4df5-a9aa-652a737ae21d.png)
 
+* Meta Mask *
+
+Select Ropsten network:
+![image](https://user-images.githubusercontent.com/19257853/181160654-4585dda0-327e-4b8b-a1a8-decf0c5aa691.png)
+
 Token add:
 ![GTC_IMPORT_TOKENS](https://user-images.githubusercontent.com/19257853/150061862-74a882b6-7e97-48de-99bf-937d436977ec.png)
 
