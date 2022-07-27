@@ -9,14 +9,14 @@ Contract search:
 Contract Deployed:
 ![GTC06](https://user-images.githubusercontent.com/19257853/150061846-d7197bfb-a50b-4df5-a9aa-652a737ae21d.png)
 
-* Meta Mask *
+# Meta Mask 
 
-Select Ropsten network:
+Select Ropsten network: <p>
 ![image](https://user-images.githubusercontent.com/19257853/181160654-4585dda0-327e-4b8b-a1a8-decf0c5aa691.png)
 
-Token add:
+Token add: <p>
 ![GTC_IMPORT_TOKENS](https://user-images.githubusercontent.com/19257853/150061862-74a882b6-7e97-48de-99bf-937d436977ec.png)
 
-Token view:
+Token view: <p>
 ![Token_view](https://user-images.githubusercontent.com/19257853/150061976-8f692da9-46d0-42f8-a21e-b0e89a6cda83.png)
 
