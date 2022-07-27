@@ -1,6 +1,8 @@
 # Solidity
 This Project is my first MVP of an ERC20 Token which I named GitCoin. The Contract was deployed on Ropsten's TestNet. You can add it to your Metamask test wallet. How can I add this Token? In Metamask add a new Token using the contract address: 0xBf343C977CA55D0454ba968f1DB58d74c9A9C318 
 
+#Ropsten: https://ropsten.etherscan.io/
+
 Contract search:
 ![image](https://user-images.githubusercontent.com/19257853/181159566-95b474d4-dcbf-45f2-9b45-06bdaa7a07c1.png)
 
